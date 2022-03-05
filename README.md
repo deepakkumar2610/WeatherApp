@@ -1,2 +1,2 @@
 # WeatherApp
-Check the weather by using city name. 
+Check the weather by using JavaScript. 
